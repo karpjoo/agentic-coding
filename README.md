@@ -147,7 +147,7 @@ MACOW에서 가장 중요한 점은 **AI Agent가 코딩을 하는 전체 과정
 | 2 | [자율 관점에서 AI Agent의 LLM 이해하기](part-2-llm-autonomy/README.md) | %  작업 중 |
 | 3 | [통제 관점에서 AI Agent의 Programmed Harness 이해하기](part-3-harness-control/README.md) | % 작업 중 |
 | 4 | [Agentic SDLC 이해하기](part-4-agentic-sdlc/README.md) | % 작업 중 |
-| 5 | [학습용 Manual Agentic Coding Workflow 배우기](part-5-macow/README.md) | % 예정 |
+| 5 | [학습용 Manual Agentic Coding Workflow (MACOW) 배우기](part-5-macow/README.md) | % 작업 중 |
 
 ---
 
