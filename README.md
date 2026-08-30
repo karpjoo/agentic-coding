@@ -173,7 +173,9 @@ MACOW에서 가장 중요한 점은 **AI Agent가 코딩을 하는 전체 과정
 
 **관리:** 모든 자료는 GitHub에서 관리할 계획입니다.
 
-- 저장소: https://github.com/karpjoo/agentic-coding 
+- 저장소:
+    - site_url: https://karpjoo.github.io/agentic-coding/
+    - repo_url: https://github.com/karpjoo/agentic-coding 
 
 - 공개 및 공유 원칙: 모든 강의자료는 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.ko) 라이선스로 공개됩니다. 자유롭게 활용하길 바랍니다. 그러나 강의자료에서 사용하는 MACOW Workflows는 이 강의자료와는 별도의 강의 SW 도구이고, [MIT License](https://opensource.org/licenses/MIT)로 공개됩니다. 
 
