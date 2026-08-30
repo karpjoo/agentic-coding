@@ -1,0 +1,21 @@
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'background': '#ffffff',
+    'primaryColor': '#ffffff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#4CAF50',
+    'lineColor': '#666666'
+  }
+}}%%
+graph TD
+    ROOT["<b>단 하나의 원리</b><br/>그럴듯한 다음 토큰을 확률적으로 예측"]
+    ROOT --> S1["확률적 생성<br/>매번 답이 달라짐"]
+    ROOT --> S2["창발<br/>규모를 넘으면 새 능력 출현"]
+    ROOT --> S3["환각<br/>그럴듯한 거짓말"]
+    ROOT --> S4["컨텍스트 윈도우<br/>한 번에 보는 양의 한계"]
+    ROOT --> S5["지식 컷오프<br/>학습 시점 이후를 모름"]
+    S1 --> G["창의성의 원천"]
+    S1 --> B["재현성의 부재"]
+    S3 --> G2["빈칸을 메우는 능력"]
+    S3 --> B2["사실 신뢰성 저하"]

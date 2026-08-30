@@ -1,0 +1,35 @@
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'background': '#ffffff',
+    'primaryColor': '#ffffff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#4CAF50',
+    'lineColor': '#666666'
+  }
+}}%%
+graph TD
+    subgraph PREP["준비 단계 (학습 이전)"]
+        V["토큰 사전 확정<br/>BPE 등으로 5만~20만 개"]
+    end
+
+    subgraph TRAIN["학습 단계 (4장)"]
+        PT["Pre-training<br/>다음 토큰 예측 반복"] --> BM["Base Model<br/>언어·세계지식·표상·기초추론"]
+        BM --> POST["Post-training<br/>지시따르기 · 선호정렬<br/>추론 · 도구사용"]
+        POST --> FM["완성된 대화형 모델<br/>수십억~수조 파라미터"]
+    end
+
+    subgraph INFER["추론 단계 (2~3장)"]
+        IN["입력 텍스트"] --> TK["토큰화 (2.1)"]
+        TK --> EMB["토큰 임베딩 (3.1)<br/>정적 의미 좌표"]
+        EMB --> ATT["어텐션 (3.2)<br/>문맥으로 의미 확정"]
+        ATT --> CTX["문맥 벡터"]
+        CTX --> DIST["다음 토큰 확률 분포 (3.3)"]
+        DIST --> TEMP["temperature 샘플링 (5.1)"]
+        TEMP --> OUT["출력 토큰"]
+        OUT -->|자기회귀: 다시 입력에 추가| TK
+    end
+
+    V --> PT
+    FM -.파라미터 제공.-> ATT
+    OUT --> FINAL["완성된 문장 / 코드 / 답변"]

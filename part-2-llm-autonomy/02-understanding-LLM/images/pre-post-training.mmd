@@ -1,0 +1,22 @@
+%%{init: {
+  'theme': 'base',
+  'themeVariables': {
+    'background': '#ffffff',
+    'primaryColor': '#ffffff',
+    'primaryTextColor': '#000000',
+    'primaryBorderColor': '#4CAF50',
+    'lineColor': '#666666'
+  }
+}}%%
+graph TD
+    D["인터넷·책·코드<br/>수조 토큰"] --> PRE["<b>Pre-training</b><br/>다음 토큰 예측만 반복"]
+    PRE --> BASE["<b>Base Model</b><br/>· 언어 능력<br/>· 세계 지식<br/>· 표상 형성<br/>· 기초 추론"]
+    BASE --> POST["<b>Post-training</b><br/>능력을 '꺼내 쓰는 방식'을 조정"]
+    POST --> P1["Instruction Following<br/>지시를 따르기"]
+    POST --> P2["Preference Alignment<br/>선호·안전성 정렬"]
+    POST --> P3["Reasoning<br/>검증 가능한 보상으로<br/>사고 과정 학습"]
+    POST --> P4["Tool / Agent Behavior<br/>도구 호출·다단계 행동"]
+    P1 --> CHAT["우리가 쓰는<br/>대화형 모델"]
+    P2 --> CHAT
+    P3 --> CHAT
+    P4 --> CHAT
