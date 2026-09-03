@@ -19,4 +19,4 @@
 | 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
 
 ---
-⬅ [Part 1 목차](../README.md) · 다음 강의: [2강. AI 시대에 우려되는 이슈](../02-concerns-in-ai-era/index.md) ➡
+⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. 초인공지능시대에는 교육이 어떻게 변화되어 질까?](../03-future-of-education/index.md) ➡
