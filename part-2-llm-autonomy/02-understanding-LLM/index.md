@@ -13,9 +13,11 @@
 - 목표 2
 
 ## 자료
-- 📄 [강의노트 PDF](./notes.pdf)
-- 🖥️ [슬라이드 PDF](./slides.pdf)
-- ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX)
+| # | 자료 | 상태 |
+|---|---|---|
+| 1 | 📄 [강의노트 PDF](./understanding-LLM-notes-v1.pdf) | ✅ 완료 |
+| 2 | 🖥️ [슬라이드 PDF](./understanding-LLM-slides-v1.pdf) | ⏳ 예정 |
+| 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
 
 ---
-⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. 초인공지능시대에는 무엇을 공부하고 어떻게 준비해야 하는가?](../03-future-of-education/index.md) ➡
+⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. LLM과 대화하기: 프롬프트 · 컨텍스트 · 하네스 엔지니어링](../03-talking-with-LLMs/index.md) ➡
