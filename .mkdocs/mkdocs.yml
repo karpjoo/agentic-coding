@@ -24,7 +24,6 @@ nav:
   - 용어집: GLOSSARY.md
   - "Part 1. 초인공지능 시대에 대한 전망":
       - 개요: part-1-agi-outlook/README.md
-      - "1강. 디스토피아 vs 유토피아": part-1-agi-outlook/01-dystopia-vs-utopia/index.md
   - "Part 2. LLM과 자율":
       - 개요: part-2-llm-autonomy/README.md
   - "Part 3. Harness와 통제":
