@@ -1,7 +1,7 @@
 site_name: Agentic Coding 강의자료
 site_url: https://karpjoo.github.io/agentic-coding/
 repo_url: https://github.com/karpjoo/agentic-coding
-docs_dir: .
+docs_dir: docs
 
 theme:
   name: material
@@ -14,16 +14,11 @@ theme:
 plugins:
   - search
 
-exclude_docs: |
-  .github/
-
 nav:
   - 소개: README.md
   - 용어집: GLOSSARY.md
   - "Part 1. 초인공지능 시대에 대한 전망":
       - 개요: part-1-agi-outlook/README.md
-      - "1강. 디스토피아 vs 유토피아": part-1-agi-outlook/01-dystopia-vs-utopia/index.md
-      # 완성된 강의가 늘어날 때마다 한 줄씩 추가
   - "Part 2. LLM과 자율":
       - 개요: part-2-llm-autonomy/README.md
   - "Part 3. Harness와 통제":
