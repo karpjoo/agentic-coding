@@ -1,4 +1,4 @@
-# Part 1. 초인공지능 시대에 대한 전망
+# Part 3. 통제 관점에서 AI Agent의 Programmed Harness 이해하기
 
 ⬅ [전체 목차](../README.md)
 

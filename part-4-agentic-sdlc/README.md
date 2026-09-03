@@ -1,4 +1,3 @@
-# Part 1. 초인공지능 시대에 대한 전망
+# Part 4. Agentic SDLC 이해하기
 
 ⬅ [전체 목차](../README.md)
-

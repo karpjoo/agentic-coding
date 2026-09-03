@@ -1,4 +1,4 @@
-# Part 1. 초인공지능 시대에 대한 전망
+# Part 5. 학습용 Manual Agentic Coding Workflow (MACOW) 배우기
 
 ⬅ [전체 목차](../README.md)
 
