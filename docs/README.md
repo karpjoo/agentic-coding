@@ -21,11 +21,11 @@
 
 > [2.2 배움과 교육에서 이동되는 중심 이해하기](#2-배움과-교육에서-이동되는-중심-이해하기)
     
-> [2.3 AI Agent를 자율과 통제 관점에서 배우기](#3-AI-Agent를-자율과-통제-관점에서-배우기)
-    
-> [2.4 AI Agent를 위한 Software Development Life Cycle: Agentic SDLC](#4-AI-Agent를-위한-Software-Development-Life-Cycle-Agentic-SDLC)
+> [2.3 AI Agent를 자율과 통제 관점에서 배우기](#3-ai-agent를-자율과-통제-관점에서-배우기)
 
-> [2.5 학습용 Manual Agentic Coding Workflow를 사용해서 코딩 배우기](#5-학습용-Manual-Agentic-Coding-Workflow를-사용해서-코딩-배우기)
+> [2.4 AI Agent를 위한 Software Development Life Cycle: Agentic SDLC](#4-ai-agent를-위한-software-development-life-cycle-agentic-sdlc)
+
+> [2.5 학습용 Manual Agentic Coding Workflow를 사용해서 코딩 배우기](#5-학습용-manual-agentic-coding-workflow를-사용해서-코딩-배우기)
 
 [Part 3. 어떤 내용으로 구성되어 있는가?](#3-어떤-내용으로-구성되어-있는가)
 

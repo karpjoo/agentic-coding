@@ -15,7 +15,7 @@
 | # | 자료 | 상태 |
 |---|---|---|
 | 1 | 📄 [강의노트 PDF](./agi-outlook-notes-v1.pdf) | ✅ 완료 |
-| 2 | 🖥️ [슬라이드 PDF](./agi-outlook-slides-v1.pdf) | ⏳ 예정 |
+| 2 | 🖥️ [슬라이드 PDF] | ⏳ 예정 |
 | 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
 
 ---
