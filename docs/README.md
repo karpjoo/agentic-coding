@@ -1,6 +1,6 @@
 
 
-# Agentic Coding 강의 자료실
+# Agentic Coding: 이해하면서 배우기
 
 저자 정보:
 
