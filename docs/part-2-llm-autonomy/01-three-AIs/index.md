@@ -36,7 +36,7 @@ LLM, AI Agent, Physical AI를 각각 어떤 기술 계보(Perception 시스템 /
 |---|---|---|
 | 1 | 📄 [강의노트 PDF](./three-AIs-notes-v1.pdf) | ✅ 완료 |
 | 2 | 🖥️ [슬라이드 PDF] | ⏳ 예정 |
-| 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
+| 3 | ▶️ [강의 영상 (YouTube)] | ⏳ 예정 |
 
 ---
-⬅ [Part 1 목차](../README.md) · 다음 강의: [2강. 초인공지능시대에는 무엇을 공부하고 어떻게 준비해야 하는가?](../02-understanding-LLM/index.md) ➡
+⬅ [Part 1 목차](../README.md) · 다음 강의: [2강. LLM를 기술이 아니라 개념으로 이해하기: 기능, 작동원리 및 활용](../02-understanding-LLM/index.md) ➡
