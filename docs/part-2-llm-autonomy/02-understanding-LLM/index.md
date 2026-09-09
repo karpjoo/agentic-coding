@@ -32,4 +32,4 @@
 | 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
 
 ---
-⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. LLM과 대화하기: 프롬프트 · 컨텍스트 · 하네스 엔지니어링](../03-talking-with-LLMs/index.md) ➡
+⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. LLM을 어떻게 사용해야 하는가?: 스승, 동료, 그리고 일꾼](../03-LLM-trinity/index.md) ➡
