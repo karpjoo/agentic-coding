@@ -27,7 +27,7 @@
 |---|---|---|
 | 1 | 📄 [강의노트 PDF](./agi-outlook-notes-v1.pdf) | ✅ 완료 |
 | 2 | 🖥️ [슬라이드 PDF] | ⏳ 예정 |
-| 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
+| 3 | ▶️ [강의 영상 (YouTube)] | ⏳ 예정 |
 
 ---
 ⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. 초인공지능시대에는 교육이 어떻게 변화되어 질까?](../03-future-of-education/index.md) ➡

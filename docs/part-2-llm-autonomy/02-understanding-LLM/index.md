@@ -29,7 +29,7 @@
 |---|---|---|
 | 1 | 📄 [강의노트 PDF](./understanding-LLM-notes-v1.pdf) | ✅ 완료 |
 | 2 | 🖥️ [슬라이드 PDF] | ⏳ 예정 |
-| 3 | ▶️ [강의 영상 (YouTube)](https://youtube.com/watch?v=XXXXXXX) | ⏳ 예정 |
+| 3 | ▶️ [강의 영상 (YouTube)] | ⏳ 예정 |
 
 ---
 ⬅ [Part 1 목차](../README.md) · 다음 강의: [3강. LLM을 어떻게 사용해야 하는가?: 스승, 동료, 그리고 일꾼](../03-LLM-trinity/index.md) ➡
