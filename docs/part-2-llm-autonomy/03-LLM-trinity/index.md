@@ -15,4 +15,4 @@
 | 3 | ▶️ [강의 영상 (YouTube)] | ⏳ 예정 |
 
 ---
-⬅ [Part 1 목차](../README.md) · 다음 강의: [4강. LLM과 대화하기: 프롬프트 · 컨텍스트 · 하네스 엔지니어링](../04-talking-with-LLMs/index.md) ➡
+⬅ [Part 1 목차](../README.md) · 다음 강의: [4강. LLM과 대화하기: 프롬프트 · 컨텍스트 · 하네스](../04-talking-with-LLMs/index.md) ➡
